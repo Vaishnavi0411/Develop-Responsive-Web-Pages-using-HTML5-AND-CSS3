@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: bisque;
+    padding-left: 40px;
+    padding-right: 20px
+}
+
+ul {
+    display: flex;
+    gap: 110px;
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 35px;
+}
+
+#idstyle {
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 20px;
+    color: yellow;
+    font-size: 1.2em;
+}
+
+.p1 {
+    font-weight: 550;
+}
+
+li {
+    padding: 8px 25px;
+    list-style-type: none;
+    color: yellow;
+    background-color: rgb(122, 30, 30);
+    border-radius: 8px;
+}
+
+img {
+    float: left;
+    padding-right: 20px;
+}
+
+.margin {
+    height: 63px;
+}
+
+.clear {
+    clear: both;
+}
+
+.box {
+    display: flex;
+    gap: 20px
+}
+
+.fig1 {
+    display: flex;
+    height: 135px;
+    width: 170px;
+    background-color: rgb(122, 30, 30);
+}
+
+.fig2 {
+    display: flex;
+    height: 135px;
+    width: 170px;
+
+    background-color: rgb(122, 30, 30);
+}
+
+.fig3 {
+    display: flex;
+    height: 135px;
+    width: 170px;
+    background-color: rgb(122, 30, 30);
+}
+
+.Tacos img,
+.Tacos1 {
+    border-radius: 50%;
+    margin-top: 2px;
+    margin-left: 35px;
+    margin-bottom: 15px;
+    padding: 7px;
+    color: yellow;
+}
+
+.footer {
+    display: flex;
+    gap: 249px;
+    margin-left: 40px;
+}
+
+.para {
+    display: flex;
+    gap: 103px;
+    margin-left: 45px;
+}
+
+.style {
+    height: 80px;
+}
+
+.img3 {
+    position: relative;
+    left: 83px;
+    bottom: 13px;
+    font-weight: bold;
+}
